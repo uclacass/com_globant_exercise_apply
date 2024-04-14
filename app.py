@@ -14,7 +14,7 @@ file_proyect : local-snow-414715
 file_dataset_bq : globant_raw_tables
 """
  
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./sa-cloudfunctions-management.json"
+
 def load_tables_bq(proj_id,dataset,table_name,bucket):
 
     schema_files = 'schema_tables'
