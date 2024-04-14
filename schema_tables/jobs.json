@@ -1,0 +1,14 @@
+[
+    {
+        "name": "id",
+        "type": "INTEGER",
+        "mode": "NULLABLE",
+        "description": "Id of the job"
+    },
+    {
+        "name": "job",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Name of the job"
+    }
+]

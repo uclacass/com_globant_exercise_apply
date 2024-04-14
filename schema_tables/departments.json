@@ -1,0 +1,15 @@
+[
+    {
+        "name": "id",
+        "type": "INTEGER",
+        "mode": "NULLABLE",
+        "description": "Id of the department"
+    },
+    {
+        "name": "name",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Name of the department"
+    }
+]
+ 
